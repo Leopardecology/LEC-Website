@@ -27,9 +27,8 @@ The Leopard Ecology & Conservation website serves as a digital platform to showc
 1. Clone the repository:
    ```sh
    git clone https://github.com/YOUR_USERNAME/Leopard-Ecology-Conservation-Website.git
-   Navigate to the project directory:
-
-2. Copy code
+   
+2. Navigate to the project directory:
    ```sh
    cd Leopard-Ecology-Conservation-Website
    
