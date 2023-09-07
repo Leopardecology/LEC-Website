@@ -1,6 +1,7 @@
 # Leopard Ecology & Conservation Website
 
-![Leopard Ecology & Conservation Logo](URL_to_Logo)
+![Leopard Ecology & Conservation Logo](https://github.com/Sinrath/Leopard-Ecology-Conservation-Website/assets/48364581/8799e7ca-ea88-471e-aab3-c2e973959fb0)
+
 
 ## About
 
@@ -26,3 +27,30 @@ The Leopard Ecology & Conservation website serves as a digital platform to showc
 1. Clone the repository:
    ```sh
    git clone https://github.com/YOUR_USERNAME/Leopard-Ecology-Conservation-Website.git
+   Navigate to the project directory:
+
+2. Copy code
+   ```sh
+   cd Leopard-Ecology-Conservation-Website
+   
+3. Install dependencies:
+   ```sh
+   npm install
+   
+4. Run the development server:
+   ```sh
+   npm run develop
+
+## Contributing
+We welcome contributions to help improve the website. If you'd like to contribute, please fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is licensed under the [INSERT LICENSE HERE] License - see the LICENSE file for details.
+
+## Contact
+- Website: Leopard.ch
+- Email: info@leopard.ch
+
+## Acknowledgements
+- Strapi
+- Node.js
